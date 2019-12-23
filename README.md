@@ -1,2 +1,2 @@
 # pyber
-pyber homework assignment
+pyber demonstration in which the use of Jupyter Notebook and other techniques was used
